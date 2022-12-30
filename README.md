@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pinnepu Jaswanth</h1>
+<h1 align="center">Hi 👋, I'm Jaswanth</h1>
 - 🌱 I’m currently learning **Express, Tensorflow and React**
 
 - 📫 How to reach me **2000039034cse@gmail.com**
