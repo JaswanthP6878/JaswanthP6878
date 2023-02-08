@@ -3,4 +3,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web and ML Enthusiast
 
 ### Badges
-[![GitHub Streak](https://streak-stats.demolab.com?user=JaswanthP6878&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JaswanthP6878&hide_border=true)]()
